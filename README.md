@@ -23,5 +23,5 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wvmpsdkblog/count.
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/vmpsdkblog/vmpsdkblog/svg/Bottom.svg" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/vmpsdkblog/vmpsdkblog/main/svg/Bottom.svg" alt="Github Stats" />
 </p>
