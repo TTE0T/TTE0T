@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# 高端的程序员往往采用最朴素的编程方式😎CV工程师
+# 高端的程序员往往采用最朴素的编程方式⚡️CV工程师
 
 ![](https://github-readme-stats.vercel.app/api?username=vmpsdkblog&show_icons=true&theme=transparent)
 
