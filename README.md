@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 
 # 高端的程序员往往采用最朴素的编程方式😎CV工程师
-# 下次一定！:joy:
+
 ![](https://github-readme-stats.vercel.app/api?username=vmpsdkblog&show_icons=true&theme=transparent)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/wvmpsdkblog/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
