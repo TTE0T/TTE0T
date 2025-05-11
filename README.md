@@ -1,6 +1,6 @@
 # 高端的程序员往往采用最朴素的编程方式⚡️CV工程师
 
-![](https://github-readme-stats.vercel.app/api?username=vmpsdkblog&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=tteot&show_icons=true&theme=transparent)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/tteot/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
@@ -12,5 +12,5 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/tteot/count.svg) v
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/vmpsdkblog/vmpsdkblog/main/svg/Bottom.svg" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/tteot/tteot/main/svg/Bottom.svg" alt="Github Stats" />
 </p>
