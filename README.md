@@ -2,7 +2,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=vmpsdkblog&show_icons=true&theme=transparent)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/wvmpsdkblog/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+You are my ![Visitor Count](https://profile-counter.glitch.me/tteot/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
 ### My Skill Set
 
